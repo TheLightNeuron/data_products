@@ -1,10 +1,39 @@
-
-  "transactions": [
+[
     {
-      "Transaction_Amount": 89.99,
-      "Account_Number": 1234,
-      "Transaction_Type": "Groceries",
-      "Image_Url": "https://upload.wikimedia.org/wikipedia/en/0/02/Homer_Simpson_2006.png"
+       "Transaction_Amount" : 89.99,
+       "Account_Number" : 1234,
+       "Transaction_Type" : "Groceries",
+       "Image_Url" : "https://storage.googleapis.com/team4-project/grocery.png"
+    },
+    {
+       "Transaction_Amount" : 89.99,
+       "Account_Number" : 1234,
+       "Transaction_Type" : "Mortgage",
+       "Image_Url" : "https://storage.googleapis.com/team4-project/mortgage.png"
+    },
+    {
+       "Transaction_Amount" : 89.99,
+       "Account_Number" : 1234,
+       "Transaction_Type" : "Entertainment",
+       "Image_Url" : "https://storage.googleapis.com/team4-project/entertainment.png"
+    },
+     {
+       "Transaction_Amount" : 89.99,
+       "Account_Number" : 1234,
+       "Transaction_Type" : "Restaurants",
+       "Image_Url" : "https://storage.googleapis.com/team4-project/Restaurant.png"
+    },
+    {
+       "Transaction_Amount" : 89.99,
+       "Account_Number" : 1234,
+       "Transaction_Type" : "AutoLoan",
+       "Image_Url" : "https://storage.googleapis.com/team4-project/autoloan.png"
+    },  
+    {
+       "Transaction_Amount" : 89.99,
+       "Account_Number" : 1234,
+       "Transaction_Type" : "Others",
+       "Image_Url" : "https://storage.googleapis.com/team4-project/others.png"
     }
-  ]
-}
+]
+
