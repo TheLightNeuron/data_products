@@ -1,1 +1,10 @@
 
+  "transactions": [
+    {
+      "Transaction_Amount": 89.99,
+      "Account_Number": 1234,
+      "Transaction_Type": "Groceries",
+      "Image_Url": "https://upload.wikimedia.org/wikipedia/en/0/02/Homer_Simpson_2006.png"
+    }
+  ]
+}
