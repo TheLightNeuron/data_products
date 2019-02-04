@@ -1,7 +1,7 @@
 [
     {
         "name": "Grocery",
-        "imageUrl": "gs://team4-project/Restaurant.jpg"
+        "imageUrl": "https://storage.googleapis.com/team4-project/Restaurant.jpg"
     }, {
         "name": "Mortgage",
         "imageUrl": "https://00e9e64bac86afb3ded326df0eb34edadf6b0587df837112f0-apidata.googleusercontent.com/download/storage/v1/b/team4-project/o/mortgage.png?qk=AD5uMEugilelhW_qHM-XxtWZOY-oXQRRbS0pxP5udNwJgFevzIEA-FFrvL6bim-nn_jonft8O9l59f56sYGMEWMY7Jf68iDxtJJ0hX3R4zHyetok0hn50wsocG1whAPSCXdOvaOXp4ben-BGYO705XRcm36tL8ThnN_K-hEzQGaBuOHzsnhlMVcNnaoBj8fsI96jKjQugRP6i3YiGwRMoopk11B-MFBCgmDgHQNov9-dwrXzUlx8flNki5s_E4kZI7PejLyTEO214uHwmVyLsZWXkbgrcpsAv0kbIBzucp6uABc-wKhKredy45d43upBhmySvo0mjjbyYxBAByGfMNw6MppRhjiPCmyTseO30mOReEsnmZH0oTm-a809DHUIAPDNjgahXUBBJ1hyPz6FCrJWG7BBdVpvq2e7Y-qeYd7gQpzHV9LNf9M9-LpcuqyR6AFlcB1Hpm4QLCdlTZzayKuchqmGQcZUUo0PEXZHdxfYThfisioSSd1yIDfqgLAoqoo6ZPaVWegSSyclOYF7UXppSPBcXMCv651CB_H780rG5PsC948oFsnL19SMhQAeCvORvUK5FRMmHgt-K37DVLdFP4S8CblX3LzsCNbje_2htTOEU0ZeZgchNHoIeKzjDf_5vWe3GU4UnRZvH0kWHTEw1ksdRg7AK2Vv3blzYkaFOuDkE40mnnP8sEeRLYQcZf1ot_NZfvJvZedmhA2a_bS3enlMf0LS2jb8H5tSxMoNlUEYyi6U3yp4P6rVa_RGcXTIDYFeyffS"
